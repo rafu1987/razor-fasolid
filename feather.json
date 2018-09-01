@@ -5,6 +5,8 @@
     "css": "EXT:razor\/Resources\/Public\/Feather\/feather.css",
     "version": "4.7.3",
     "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/feather.json",
+    "source": "https://github.com/rafu1987/razor-feather/archive/master.tar.gz",
+    "dest": "/typo3conf/ext/razor/Resources/Public/Feather/",
     "replace": "feather-",
     "icons": [
         "feather-activity",
