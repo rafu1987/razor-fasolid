@@ -7,7 +7,7 @@
     },
     "css": "EXT:razor\/Resources\/Public\/Yarn\/fontawesome\/web-fonts-with-css\/css\/fa-solid.min.css",
     "version": "5.1.3",
-    "repository": "https://cdn.rawgit.com/rafu1987/razor-fasolid/de68bd77/fa-solid.json",
+    "repository": "https://rawgit.com/rafu1987/razor-fasolid/master/fa-solid.json",
     "replace": "fas fa-",
     "icons": [
         "fas fa-address-book",
