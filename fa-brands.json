@@ -8,6 +8,8 @@
   "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/fa-brands.min.css",
   "version": "5.3.1",
   "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/fa-brands.json",
+  "source": "https://github.com/FortAwesome/Font-Awesome/archive/5.3.1.tar.gz",
+  "dest": "typo3conf/ext/razor/Resources/Public/Yarn/fontawesome/",
   "replace": "fab fa-",
   "icons": [
     "fab fa-500px",
