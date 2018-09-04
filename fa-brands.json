@@ -3,6 +3,7 @@
   "id": 3,
   "active": true,
   "global": {
+    "title": "Font Awesome 5",
     "fontawesome": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/fontawesome.min.css"
   },
   "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/fa-brands.min.css",
