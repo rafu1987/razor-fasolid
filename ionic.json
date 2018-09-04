@@ -6,7 +6,7 @@
   "version": "4.4.2",
   "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/ionic.json",
   "source": "https://github.com/rafu1987/razor-ionicons/archive/master.tar.gz",
-  "dest": "/typo3conf/ext/razor/Resources/Public/Ionicons/",
+  "dest": "typo3conf/ext/razor/Resources/Public/Ionicons/",
   "replace": "icon ion-",
   "icons": [
     "icon ion-ios-add",

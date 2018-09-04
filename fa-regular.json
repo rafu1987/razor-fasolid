@@ -9,7 +9,7 @@
   "version": "5.3.1",
   "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/fa-regular.json",
   "source": "https://github.com/FortAwesome/Font-Awesome/archive/5.3.1.tar.gz",
-  "dest": "/typo3conf/ext/razor/Resources/Public/Yarn/fontawesome/",
+  "dest": "typo3conf/ext/razor/Resources/Public/Yarn/fontawesome/",
   "replace": "far fa-",
   "icons": [
     "far fa-address-book",
