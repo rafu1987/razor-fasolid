@@ -2,7 +2,7 @@
     "title": "Feather",
     "id": 4,
     "active": false,
-    "css": "EXT:razor\/Resources\/Public\/Feather\/feather.css",
+    "css": "EXT:razor/Resources/Public/Feather/feather.css",
     "version": "4.7.3",
     "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/feather.json",
     "source": "https://github.com/rafu1987/razor-feather/archive/master.tar.gz",
