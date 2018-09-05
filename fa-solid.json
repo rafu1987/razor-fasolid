@@ -7,7 +7,7 @@
     "value": "fontawesome",
     "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/fontawesome.min.css"
   },
-  "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/fa-solid.min.css",
+  "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/solid.min.css",
   "version": "5.3.1",
   "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/fa-solid.json",
   "source": "https://github.com/FortAwesome/Font-Awesome/archive/5.3.1.tar.gz",
