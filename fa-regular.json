@@ -8,9 +8,9 @@
     "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/fontawesome.min.css"
   },
   "css": "EXT:razor/Resources/Public/Yarn/fontawesome/web-fonts-with-css/css/regular.min.css",
-  "version": "5.4.1",
+  "version": "5.5.0",
   "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/fa-regular.json",
-  "source": "https://github.com/FortAwesome/Font-Awesome/archive/5.4.1.tar.gz",
+  "source": "https://github.com/FortAwesome/Font-Awesome/archive/5.5.0.tar.gz",
   "dest": "typo3conf/ext/razor/Resources/Public/Yarn/fontawesome/",
   "replace": "far fa-",
   "icons": [
