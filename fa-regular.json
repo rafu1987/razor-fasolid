@@ -8,6 +8,7 @@
     "css": "EXT:razor/Resources/Public/Yarn/fontawesome/css/fontawesome.min.css"
   },
   "css": "EXT:razor/Resources/Public/Yarn/fontawesome/css/regular.min.css",
+  "svg": "EXT:razor/Resources/Public/Yarn/fontawesome/svgs/regular/",
   "version": "5.6.1",
   "repository": "https://rawgit.com/rafu1987/razor-iconpacks/master/fa-regular.json",
   "source": "https://github.com/FortAwesome/Font-Awesome/archive/5.6.1.tar.gz",
